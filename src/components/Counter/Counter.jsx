@@ -23,7 +23,7 @@ const Counter = () => {
           onClick={() => setCounter(0)}
           className="btn btn-active btn-secondary"
         >
-          resetsss
+          reset
         </button>
       </div>
     </div>
