@@ -1,0 +1,40 @@
+{
+  "shoes": [
+    {
+      "id": "1",
+      "title": "Nike Air Max 270",
+      "description": "Lightweight, breathable sneakers designed for all-day comfort with a modern and stylish look.",
+      "price": 150
+    },
+    {
+      "id": "2",
+      "title": "Adidas Ultraboost 21",
+      "description": "Running shoes with responsive cushioning and energy-returning boost technology for high-performance and comfort.",
+      "price": 180
+    },
+    {
+      "id": "3",
+      "title": "Puma RS-X3",
+      "description": "Bold retro design sneakers offering superior cushioning and a vibrant, statement-making style.",
+      "price": 120
+    },
+    {
+      "id": "4",
+      "title": "New Balance 990v5",
+      "description": "Classic heritage running shoes with premium materials and superior support for everyday wear.",
+      "price": 175
+    },
+    {
+      "id": "5",
+      "title": "Asics Gel-Kayano 28",
+      "description": "Stability running shoes with gel cushioning and a durable design for long-distance comfort.",
+      "price": 160
+    },
+    {
+      "id": "6",
+      "title": "Reebok Nano X1",
+      "description": "Cross-training shoes designed for versatile workouts with flexible support and all-day comfort.",
+      "price": 130
+    }
+  ]
+}
